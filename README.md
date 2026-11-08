@@ -1,75 +1,111 @@
-Gabriel Martello Farias
+<div align="center">
 
-Software Development | Technology | Innovation
+# GABRIEL MARTELLO FARIAS
 
+**Desenvolvimento de Software · Tecnologia · Inovação**
 
+<br>
 
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 
-About Me
+<br><br>
 
-Olá! Sou Gabriel Martello Farias, tenho 23 anos e sou de Buritis, Rondônia, Brazil.
+[GitHub](https://github.com/gabrielmfszz) · Buritis, Rondônia, Brazil
 
-Sou apaixonado por tecnologia, programação e inovação. Gosto de explorar novas ferramentas, desenvolver projetos e transformar ideias em soluções através da tecnologia.
+</div>
 
-Atualmente, estou aprimorando meus conhecimentos em diferentes linguagens de programação e explorando o desenvolvimento de sistemas e aplicações web.
+---
 
-Também utilizo Inteligência Artificial (IA) como ferramenta de apoio para revisar códigos, identificar erros, otimizar soluções e acelerar meu aprendizado.
+## SOBRE MIM
 
-Meu objetivo é evoluir constantemente e transformar conhecimento em projetos reais.
+Olá! Sou **Gabriel Martello Farias**, tenho 23 anos e sou de Buritis, Rondônia.
 
-Technologies & Tools
+Sou apaixonado por tecnologia, programação e inovação. Gosto de desenvolver projetos, explorar novas ferramentas e transformar ideias em soluções.
 
-Programming Languages
+Estou em constante aprendizado, aprimorando minhas habilidades em programação e desenvolvimento de aplicações.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js" height="45" />
-</p>
+Também utilizo **Inteligência Artificial** como ferramenta de apoio para revisão de código, resolução de problemas, otimização e aprendizado.
 
-Web Development
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" height="45" />
-</p>
+## TECNOLOGIAS
 
-Development Tools
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />
-</p>
+**Linguagens de programação**
 
-AI-Assisted Development
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" height="55">
 
-Utilizo inteligência artificial como ferramenta complementar ao desenvolvimento de software.
+<br><br>
 
-Code review and optimization.
+**Desenvolvimento Web**
 
-Debugging and problem solving.
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="55">
 
-Learning new technologies.
+<br><br>
 
-Software development assistance.
+**Ferramentas**
 
-Productivity and workflow improvement.
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="55">
 
-Acredito que a inteligência artificial potencializa o desenvolvimento, mas o raciocínio lógico e o conhecimento continuam sendo fundamentais.
+</div>
 
-Featured Projects
+---
 
-Conheça meus projetos e acompanhe minha evolução como desenvolvedor.
+## INTELIGÊNCIA ARTIFICIAL
 
+Utilizo IA para potencializar meu processo de desenvolvimento:
 
+- Revisão e otimização de código.
+- Identificação e correção de erros.
+- Aprendizado de novas tecnologias.
+- Desenvolvimento assistido por IA.
+- Melhoria da produtividade.
 
-GitHub Statistics
+---
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielmfszz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmfszz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
+## PROJETOS
 
-<p align="center">
-  <img width="75%" src="https://streak-stats.demolab.com/?user=gabrielmfszz&theme=github-dark-blue&hide_border=true" />
-</p>
+Confira meus repositórios e acompanhe minha evolução como desenvolvedor.
 
-<p align="center">
-  <sub>Always learning. Always building. Always improving.</sub>
-</p>
+<div align="center">
+
+<a href="https://github.com/gabrielmfszz?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORAR%20REPOSITÓRIOS-2563EB?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## ESTATÍSTICAS DO GITHUB
+
+<div align="center">
+
+<a href="https://github.com/gabrielmfszz">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielmfszz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+</a>
+
+<a href="https://github.com/gabrielmfszz">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmfszz&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
+</a>
+
+<br><br>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=gabrielmfszz&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Sempre aprendendo. Sempre evoluindo.**
+
+<sub>Building ideas into reality, one line of code at a time.</sub>
+
+</div>
