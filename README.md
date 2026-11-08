@@ -1,111 +1,130 @@
-<div align="center">
+ <div align="center">
 
-# GABRIEL MARTELLO FARIAS
-
-**Desenvolvimento de Software · Tecnologia · Inovação**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:172554,100:2563EB&height=190&section=header&text=GABRIEL%20MARTELLO%20FARIAS&fontSize=32&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPMENT%20%7C%20TECHNOLOGY%20%7C%20AI&descAlignY=60&descSize=13"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<a href="https://github.com/gabrielmfszz">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Gabriel+Martello+Farias;Software+Development;Building+ideas+into+reality;Always+learning.+Always+evolving." alt="Typing animation"/>
+</a>
 
-<br><br>
+<br>
 
-[GitHub](https://github.com/gabrielmfszz) · Buritis, Rondônia, Brazil
+<img src="https://komarev.com/ghpvc/?username=gabrielmfszz&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/gabrielmfszz?label=FOLLOWERS&style=flat-square&color=2563EB&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-2563EB?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
 
 </div>
 
----
+01 // ABOUT ME
 
-## SOBRE MIM
+class Gabriel:
+    def __init__(self):
+        self.name = "Gabriel Martello Farias"
+        self.age = 23
+        self.location = "Buritis, Rondônia, Brazil"
+        self.interests = [
+            "Software Development",
+            "Technology",
+            "Artificial Intelligence",
+            "Innovation"
+        ]
 
-Olá! Sou **Gabriel Martello Farias**, tenho 23 anos e sou de Buritis, Rondônia.
+    def objective(self):
+        return "Learn, build and evolve."
 
-Sou apaixonado por tecnologia, programação e inovação. Gosto de desenvolver projetos, explorar novas ferramentas e transformar ideias em soluções.
+Sou apaixonado por tecnologia, programação e inovação. Gosto de explorar novas ferramentas, desenvolver projetos e transformar ideias em soluções.
 
-Estou em constante aprendizado, aprimorando minhas habilidades em programação e desenvolvimento de aplicações.
+Estou em constante evolução, estudando diferentes linguagens e aprimorando minhas habilidades em desenvolvimento de software.
 
-Também utilizo **Inteligência Artificial** como ferramenta de apoio para revisão de código, resolução de problemas, otimização e aprendizado.
+Também utilizo Inteligência Artificial como ferramenta de apoio para revisar códigos, solucionar problemas, otimizar aplicações e expandir meus conhecimentos.
 
----
-
-## TECNOLOGIAS
+02 // TECHNOLOGIES & TOOLS
 
 <div align="center">
 
-**Linguagens de programação**
+Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" height="55">
+<img src="https://skillicons.dev/icons?i=python,java,js&theme=dark" height="55" />
 
-<br><br>
+<br/><br/>
 
-**Desenvolvimento Web**
+Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="55">
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="55" />
 
-<br><br>
+<br/><br/>
 
-**Ferramentas**
+Development Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="55">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="55" />
 
 </div>
 
----
+03 // AI & MODERN DEVELOPMENT
 
-## INTELIGÊNCIA ARTIFICIAL
+<div align="center">
 
-Utilizo IA para potencializar meu processo de desenvolvimento:
+<img src="https://img.shields.io/badge/AI-ASSISTED%20DEVELOPMENT-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
 
-- Revisão e otimização de código.
-- Identificação e correção de erros.
-- Aprendizado de novas tecnologias.
-- Desenvolvimento assistido por IA.
-- Melhoria da produtividade.
+</div>
 
----
+Utilizo inteligência artificial para potencializar meu processo de desenvolvimento:
 
-## PROJETOS
+Code review and optimization.
 
-Confira meus repositórios e acompanhe minha evolução como desenvolvedor.
+Debugging and problem solving.
+
+AI-assisted programming.
+
+Learning new technologies.
+
+Workflow automation.
+
+A tecnologia evolui. Minha missão é evoluir junto com ela.
+
+04 // FEATURED PROJECTS
 
 <div align="center">
 
 <a href="https://github.com/gabrielmfszz?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORAR%20REPOSITÓRIOS-2563EB?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
----
+Aqui você encontra meus projetos, experimentos e aplicações desenvolvidas durante minha jornada na programação.
 
-## ESTATÍSTICAS DO GITHUB
+05 // GITHUB ANALYTICS
 
 <div align="center">
 
 <a href="https://github.com/gabrielmfszz">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrielmfszz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielmfszz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"/>
 </a>
 
 <a href="https://github.com/gabrielmfszz">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmfszz&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmfszz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=gabrielmfszz&theme=github-dark-blue&hide_border=true"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=gabrielmfszz&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+06 // CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-**Sempre aprendendo. Sempre evoluindo.**
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gabrielmfszz&bg_color=0d1117&color=58a6ff&line=2563eb&point=ffffff&area=true&hide_border=true&custom_title=GITHUB%20CONTRIBUTION%20GRAPH"/>
 
-<sub>Building ideas into reality, one line of code at a time.</sub>
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=BUILD.+LEARN.+IMPROVE.+REPEAT.;Thanks+for+visiting+my+profile!;See+you+in+the+next+commit." alt="Footer animation"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:172554,100:020617&height=100&section=footer"/>
 
 </div>
